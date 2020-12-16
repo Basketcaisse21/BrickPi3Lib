@@ -34,4 +34,4 @@ while running:
 https://github.com/DexterInd/BrickPi3
 
 ## License
-MIT © [Basketcaisse21]()
+MIT © [EmilJimenez21]()
